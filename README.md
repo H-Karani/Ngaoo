@@ -1,3 +1,4 @@
 # Ngaoo
-USSD alert security sysytem
-Building for SGDs
+#USSD alert security system for Maseno University
+
+#Building for SGDs
